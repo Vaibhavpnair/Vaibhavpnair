@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a systems-oriented AI engineer building GPU-accelerated multimodal intelligence systems that operate on live audio and video streams. My work combines OpenCV, NLP pipelines, real-time signal processing, and RAPIDS (CUDA, cuDF, cuML) to design low-latency inference architectures.<br><br>I focus on:<br><br>🎤 Real-time microphone-based audio analysis (FFT, MFCCs, prosodic features)<br><br>🎥 Live webcam-based facial & behavioral inference<br><br>🔗 Multimodal fusion (audio tone + facial dynamics)<br><br>🧠 Conversational intelligence & dominance modeling<br><br>☁️ Scalable SaaS architectures for AI platforms like ShotScape<br><br>I care about architecture, performance, and deployment as much as the models themselves. My approach is always:<br><br>Signal → Feature → Inference → System → Production<br><br>Currently exploring:<br><br>⚡ GPU optimization & RAPIDS internals<br><br>🤖 Advanced NLP & transformer architectures<br><br>🏗 Production-grade ML systems & SaaS scalability<br><br>I’m working toward becoming an AI Systems Architect building real-time, production-ready intelligent platforms.
+I’m a systems-oriented AI engineer building GPU-accelerated multimodal AI systems that work with live audio and video streams. I combine OpenCV, NLP pipelines, real-time signal processing, and RAPIDS (CUDA, cuDF, cuML) to design low-latency, production-ready inference architectures.<br><br>I focus on:<br><br>🎤 Real-time audio analysis (FFT, MFCCs, prosodic features)<br><br>🎥 Live facial and behavioral inference<br><br>🔗 Multimodal fusion of voice and facial dynamics<br><br>🧠 Conversational intelligence and dominance modeling<br><br>☁️ Scalable SaaS systems like ShotScape<br><br>I care as much about architecture, performance, and deployment as I do about model accuracy. I’m currently deepening my understanding of GPU optimization, advanced NLP architectures, and scalable ML systems — working toward becoming an AI Systems Architect building real-time, production-ready intelligent platforms.
 
 
 ## 🌐 Socials:
@@ -15,6 +15,9 @@ I’m a systems-oriented AI engineer building GPU-accelerated multimodal intelli
 ---
 [![](https://visitcount.itsvg.in/api?id=Vaibhavpnair&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 Vaibhavpnair/Vaibhavpnair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
